@@ -16,14 +16,14 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application built with:
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-- [CORS](https://www.npmjs.com/package/cors)
 - [Node.js](https://nodejs.org/)
+- [CORS](https://www.npmjs.com/package/cors)
 - [MySQL](https://www.mysql.com/)
 
 ### Setup Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Salah-Amr/CRUD
    cd your-repo
    ```
 2. **Install dependencies:**
