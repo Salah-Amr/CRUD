@@ -26,20 +26,30 @@ Ensure you have the following installed:
    git clone https://github.com/Salah-Amr/CRUD
    cd CRUD
    ```
+
 2. **Install dependencies:**
    ```sh
    npm install
    ```
-3. **Configure the database:**
+
+3. **Install Express for the backend**:
+   ```bash
+   npm install express
+   ```
+
+4. **Configure the database:**
    - Create a MySQL database.
    - Update database connection settings in `dbConnection.js`.
-4. **Run the application:**
+   
+5. **Run the application:**
    ```sh
    node index.js
    ```
-5. ### Running the Application
-- **Frontend:** Open your browser and go to `http://localhost:3000`
-- **Backend:** The server runs on `http://localhost:5000`
+6. **Frontend**:
+   Open your browser and visit `http://localhost:3000` to view the frontend.
+
+7. **Backend**:
+   The backend runs at `http://localhost:5000`.
 
 ## API Endpoints
 | Method | Endpoint               | Description                 |
