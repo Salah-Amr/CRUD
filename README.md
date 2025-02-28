@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Salah-Amr/CRUD
-   cd your-repo
+   cd CRUD
    ```
 2. **Install dependencies:**
    ```sh
@@ -46,7 +46,7 @@ Ensure you have the following installed:
 |--------|------------------------|-----------------------------|
 | GET    | `/products`            | Get all records             |
 | GET    | `/products/search?`    | Get records from search     |
-| GET    | `/products/:id`        | Get record by ID           |
+| GET    | `/products/:id`        | Get record by ID            |
 | POST   | `/products`            | Add a new record            |
 | PUT    | `/products`            | Update a record by ID       |
 | DELETE | `/products`            | Delete a record by ID       |
